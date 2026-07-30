@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a6a35" />
+      <stop offset="100%" stop-color="#1bbf7f" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="36" />
+  <g font-family="Inter, system-ui, sans-serif" fill="#ffffff">
+    <text x="50%" y="40%" text-anchor="middle" font-size="72" font-weight="700">Eco Stand Corporation</text>
+    <text x="50%" y="54%" text-anchor="middle" font-size="36" opacity="0.9">Next.js · Tailwind CSS v4 · React</text>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="12" opacity="0.25">
+    <rect x="80" y="560" width="1040" height="160" rx="40" />
+    <path d="M220 620h140m120 0h320m120 0h140" stroke-linecap="round" />
+  </g>
+</svg>
