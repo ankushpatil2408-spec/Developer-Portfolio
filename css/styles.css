@@ -270,7 +270,7 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
 }
 .profile-img-wrap img {
   width: 100%; height: 100%;
-  object-fit: cover; object-position: top;
+  object-fit: cover; object-position: center;
   transition: transform 0.5s ease;
 }
 .profile-card:hover .profile-img-wrap img { transform: scale(1.03); }
